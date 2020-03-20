@@ -1,6 +1,7 @@
 import contact from "./contact";
 import experience from "./experience";
-import openSource from "./openSource";
-import publicSpeaking from "./publicSpeaking";
+import sideProjects from "./sideProjects";
+import about from "./aboutMe";
+import education from "./education";
 
-export { contact, experience, openSource, publicSpeaking };
+export { contact, experience, sideProjects, about, education };

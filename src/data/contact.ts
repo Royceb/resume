@@ -1,30 +1,30 @@
 export default {
-  name: "Sean W. Lawrence",
-  email: "sean.w.lawrence@gmail.com",
-  city: "Seattle",
-  state: "WA",
-  phone: "210-632-0555",
+  name: "Royce Brooks",
+  email: "royce.r.brooks@gmail.com",
+  city: "San Francisco",
+  state: "CA",
+  phone: "7073340045",
   programmingLanguages: [
-    "TypeScript/Javascript/React",
+    "TypeScript/Javascript/Angular/React",
     "GraphQL/Apollo",
-    "Ruby/Rails",
+    "Go",
     "HTML",
     "SCSS/SASS/CSS"
   ],
   socialMediaAccounts: [
     {
       name: "GitHub",
-      url: "https://github.com/seanWLawrence",
+      url: "https://github.com/royceb",
       logo: "github-logo.png"
     },
     {
       name: "LinkedIn",
-      url: "https://linkedin.com/in/sean-w-lawrence",
+      url: "https://linkedin.com/in/roycer",
       logo: "linked-in-logo.png"
     },
     {
       name: "Website",
-      url: "https://seanlawrence.netlify.com",
+      url: "https://roycesresume.netlify.com",
       logo: "website-logo.png"
     }
   ]

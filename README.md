@@ -19,7 +19,7 @@ A modern, clean resume designed for web developers.
 If you'd like to host your resume for free on Netlify, the button below will
 clone this repo to your GitHub profile and deploy it automatically.
 
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/seanWLawrence/resume">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/royceb/resume">
   <img alt="Deploy to netlify" src="https://www.netlify.com/img/deploy/button.svg" width="165"/>
 </a>
 
@@ -30,7 +30,7 @@ Then you can clone the repo locally and make your changes. Voila!
 Clone this repo
 
 ```sh
-git clone https://github.com/seanWLawrence/resume
+git clone https://github.com/royceb/resume
 ```
 
 Then you can [deploy anywhere you can deploy create-react-app](https://create-react-app.dev/docs/deployment).
@@ -76,4 +76,4 @@ MIT
 
 ## Author
 
-Sean W. Lawrence
+Royce Brooks
