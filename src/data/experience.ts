@@ -56,8 +56,8 @@ export default {
         name: "Fuze (Acquired by Thinkingphones, rebranded as Fuze)",
         url: "https://fuze.com"
       },
-      startDate: new Date("2015-01-01"),
-      endDate: new Date("2013-01-01"),
+      startDate: new Date("2013-01-01"),
+      endDate: new Date("2015-01-01"),
       accomplishments: [
         "Single handedly rebuilt the fuze.com marketing site that led to an acquisition less than a year months later.",
         "Improved purchase funnel conversation rates by 10%."
@@ -71,8 +71,8 @@ export default {
     {
       title: "IT Intern",
       company: { name: "Fuzebox", url: "https://fuze.com" },
-      startDate: new Date("2013-01-01"),
-      endDate: new Date("2012-01-01"),
+      startDate: new Date("2012-01-01"),
+      endDate: new Date("2013-01-01"),
       accomplishments: [
         "Built a app using Google Forms so HR could send new hire information to me instead of emailing. Saved time by 20%.",
         "Developed life long friendships"
@@ -88,8 +88,8 @@ export default {
     {
       title: "IOS Developer Intern",
       company: { name: "MakeGamesWithUs", url: "https://makeschool.com" },
-      startDate: new Date("2013-09-01"),
-      endDate: new Date("2013-06-01"),
+      startDate: new Date("2013-06-01"),
+      endDate: new Date("2013-09-01"),
       accomplishments: [
         "Built an IOS game that was not published to the app store."
       ],
