@@ -7,7 +7,6 @@ export default {
       accomplishments: [
         "Drove the frontend development of the notifications feature, in React, which allows admins to send mass messages to students or class sections.",
         "Improved the attendance taking tool by optimizing the layout to better fit responsive screen sizes. Cut down attendance taking time by 10%.",
-        "Increase number of tests by more than 4X (from ~200 to ~900 specs).",
         "Participated massive react upgrade (v15.5 - v16.10 & ~500 files) initiatives."
       ],
       responsibilities: [
