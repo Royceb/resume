@@ -7,7 +7,7 @@ export default {
       accomplishments: [
         "Drove the frontend development of the notifications feature, in React, which allows admins to send mass messages to students or class sections.",
         "Improved the attendance taking tool by optimizing the layout to better fit responsive screen sizes. Cut down attendance taking time by 10%.",
-        "Participated massive react upgrade (v15.5 - v16.10 & ~500 files) initiatives."
+        "Participated in massive react upgrade (v15.5 - v16.10 & ~500 files) initiatives."
       ],
       responsibilities: [
         "Collaborate closely with computer science instructors, college staff and students to build, brainstorm and ship solutions to improve the teaching experience.",
@@ -26,7 +26,7 @@ export default {
         "Built the Fuze Slack integration from conception to release by working with Slack dev partners to implement and pilot new features that enhance work communication.",
         "Increase number of tests in frontend clients and backend API's by more than 3X (from ~100 to ~400 specs).",
         "Lead the adoption of Angular2+ and completely upgraded/rewrote fuze.me, increasing page load speed by almost 2x by lazy loading components.",
-        "Designed and developed several GO microservice API's like the feedback service which unified client logging across the entire company. Was able to handle over 1M log messages per day by leveraging Kafka and S to consume and process log uploads to Splunk."
+        "Designed and developed several GO microservice API's like the feedback service which unified client logging across the entire company. Was able to handle over 1M log messages per day by leveraging Kafka and S3 to consume and process log uploads to Splunk."
       ],
       responsibilities: [
         "Design, present, implement and maintain features across the stack in the Fuze meetings platform.",
