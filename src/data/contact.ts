@@ -6,6 +6,7 @@ export default {
   phone: "7073340045",
   programmingLanguages: [
     "TypeScript/Javascript/Angular/React",
+    "Node",
     "GraphQL/Apollo",
     "Go",
     "HTML",
