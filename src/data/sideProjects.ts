@@ -10,18 +10,18 @@ export default {
     {
       name: "StylesGo Website",
       description:
-        "The V2 marketing website for StylesGo. StylesGo is an on-demand barber service that takes the hassle out of getting haircuts.",
+        "The marketing website for StylesGo. StylesGo is an on-demand barber service that takes the hassle out of getting haircuts.",
       stack: "React.js, Netlify",
       github: "https://github.com/Royceb/stylesgo-website",
-      url: "https://stylesgo.netlify.com"
+      url: "https://stylesgoapp.com"
     },
     {
-      name: "StylesGo App (Live version coming soon!)",
+      name: "StylesGo App",
       description: "The IOS and Android and native applications for StylesGo.",
       stack:
-        "React.js, Ionic, Capacitor, Firebase (auth, functions, storage and database)",
+        "React.js, Ionic, Capacitor, Node, Redux",
       github: "https://github.com/Royceb/stylesgoapp",
-      url: ""
+      url: "https://web.stylesgoapp.com"
     },
     {
       name: "Partnerpages",
